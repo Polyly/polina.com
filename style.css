@@ -1,0 +1,36 @@
+ li{
+            font-size: 30px;
+            
+        }
+        .important{
+          font-weight: bold;
+            color: brown;
+            list-style: square;
+            text-decoration: underline;
+            
+         
+        }
+        .finished{
+            text-decoration: line-through;
+            color: silver;
+            
+        }
+ol{
+    font-size: 35px;
+}
+#first{
+    color: burlywood;
+}
+#second{
+    color: chocolate;
+}
+#third{
+    color: darkkhaki;
+}
+#fourth{
+    color: darkseagreen;
+}
+#fiveth{
+    color: antiquewhite;
+}
+
